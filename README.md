@@ -10,4 +10,4 @@ Module was currently tested on folowing devices:
 9) Samsung s21 Ultra (BeyondROM 4.4 DWA4, Android 13) - partially works, but cable disconnection during mounting will cause reboot. Troubleshooting is now in progress.
 10) Google Pixel 7 pro (Stock Android)
 11) Redmi 10A (Android 11 MIUI MOD)
-
+12) Redmi 9A
