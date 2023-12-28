@@ -1,7 +1,0 @@
-id=fixdd
-name=DriveDroid fix for Android 11+
-version=v1.0
-versionCode=10
-settingsVersion=50
-author=Danil Vyazikov & Barsikus007
-description=DriveDroid USB mounting works again!
